@@ -1,2 +1,3 @@
-# sieve-eroatosthness
-The sieve Of Eratosthness
+Scala-Maven
+
+Example project for using Maven to build Scala code
